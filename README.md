@@ -1,16 +1,14 @@
-# dynamic_links
+In this video, I share the seamless navigation from a link to your app using Firebase Dynamic Links in a Flutter app. 🚀 Check it out: [Watch the video here](https://firebase.flutter.dev/docs/dynamic-links/receive/)
 
-A new Flutter project.
+📂 You can also explore the source code on my GitHub: [GitHub Repository](https://github.com/sakriwassim/dynamic_link_firebase_flutter.git)
 
-## Getting Started
+[V3] Like my prompt? Help me manage my monthly expenses by showing your support! ☕
 
-This project is a starting point for a Flutter application.
+👉 Buy me a Coffee: [Support me here](https://www.buymeacoffee.com/wassimsarki)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌟 Exciting news! I've just shared a video on mastering Firebase Dynamic Links in Flutter, and the code is ready for you on my GitHub. 💡 Learn how to make your app's navigation a breeze. What do you think?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💼 If you are a business or developer seeking AI consultancy, don't hesitate to book a 1:1 consultation with me here: [Book Consultation](https://calendly.com/kshitij_gagan/15min)
+
+#LinkedInMarketing #AppDevelopment #FirebaseMagic #Flutter #TechInnovation #GitHubCode #ProfessionalInsights #DigitalNavigation #MobileApp #LinkedinLearning #AIConsulting #ExpertAdvice #DeveloperCommunity #TechSolutions #InnovationUnleashed #LinkedInInfluencer
