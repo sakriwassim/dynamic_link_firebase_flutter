@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733464079768",
+    "project_id": "deeplink-b4f43",
+    "storage_bucket": "deeplink-b4f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733464079768:android:425032eb21fb456762cfed",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_links"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWYLlhiU5lkdls9cORIfRsZsYoFUpKTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
